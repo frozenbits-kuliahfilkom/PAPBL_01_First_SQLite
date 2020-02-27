@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='SQLite_app_mahasiswa'
+rootProject.name='Bab01_SQLite_app_mahasiswa'
